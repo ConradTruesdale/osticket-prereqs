@@ -19,11 +19,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Access CGI better known as (Common Gateway Interface)
+- Install and Enable ISS(Internet Information Service
+- Create and access your Rewrite Moduel(URL) the address of website
+- Create and generate PHP(personal home page)
+- Download and access VC(visual C++)
+- MySQL access an open source data base that powers content management
 
 <h2>Configuration Steps</h2>
 
