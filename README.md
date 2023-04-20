@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create and access your Rewrite Moduel(URL) the address of website
 - Create and generate PHP:personal home page
 - Download and access <b>VC<b>:visual C++
-- MySQL: access an open source data base that powers the content you are creating and/or using
+- {font-size:32px;} MySQL: access an open source data base that powers the content you are creating and/or using
 
 <h2>Configuration Steps</h2>
 
