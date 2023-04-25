@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create and access your Rewrite Moduel(URL) the address of website
 - Create and generate PHP:personal home page
 - Download and access <b>VC<b>:visual C++
-- {font-size:32px;} MySQL: access an open source data base that powers the content you are creating and/or using
+- MySQL: access an open source data base that powers the content you are creating and/or using
 
 <h2>Configuration Steps</h2>
 
@@ -40,7 +40,7 @@ To access your CGI you must first create a VM(virtual machine). This is where Az
 <img src=https://i.imgur.com/ZIIcgoH.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-IIS is good for hosting and managing websites on Windows systems. Running the
+IIS is good for hosting, running, and managing websites on Windows systems. Some sites are in STATIC form, pages made up of "fixed codes." Others come in the DYNAMIC form which is web programing and database design. Afther deciding your structure you take it to a server. This is when your website is accessable to the world
 </p>
 <br />
 
