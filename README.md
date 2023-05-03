@@ -3,8 +3,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Prerequisites Configuration</h1>
+This tutorial outlines the prerequisites configuration of the open-source help desk ticketing system osTicket.<br />
 
 <h1> <h2>Video Demonstration</h2>
 
@@ -22,7 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2> Prerequitsites Configuration Objectives</h2>
 
 - Access CGI better known as (Common Gateway Interface)
 - Install and Enable ISS(Internet Information Service)
