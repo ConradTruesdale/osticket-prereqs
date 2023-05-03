@@ -53,6 +53,6 @@ IIS is good for hosting, running, and managing websites on Windows systems. Some
 <img src=https://i.imgur.com/X6RtMay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Remote Desktop (RDS) a feature used as a virturaly identical exsprience while siting at home, work or cafte. How does it work? Through a web portal or computer running a romote destop client app. A user can then connect to a hosts RDS server. Once logged in with authorization the user can then access files, apps, and systems. For my project I used the VM that I created in Azure. With th IP address from the VM I was able to access the server through RDS.
 </p>
 <br />
