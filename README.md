@@ -37,7 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src=https://i.imgur.com/BdrSO4u.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To access your #CGI you must first create a VM(virtual machine). This is where Azure came into to play. This program to some is used to store data or important information. Azure can also be used for Analytics, Virtual Computing, and Networking. Azure was my key to open up the doors to my other configurations
+To access your CGI you must first create a VM(virtual machine). This is where Azure came into to play. This program to some is used to store data or important information. Azure can also be used for Analytics, Virtual Computing, and Networking. Azure was my key to open up the doors to my other configurations
 </p>
 <br />
 
